@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-2',
+          componentName:'NavOverflow',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:""
+        });
+      })({"style":{"marginHorizontal":"-6px","marginVertical":"-6px","paddingHorizontal":"6px","paddingVertical":"6px"},"activeStyle":{"marginHorizontal":"-6px","marginVertical":"-6px","paddingHorizontal":"6px","paddingVertical":"6px"},"label":"Больше","parentId":"n-3816938177-navId-1","toggleId":"38179-moreId","hideDropdown":true,"inlineUtilitiesMenu":false,"navigation":[],"staticContent":{"hamburgerIcon":"Значок навигации сайта Hamburger","YouTube":"Ссылка на YouTube","Facebook":"Ссылка на Facebook","carouselAddImageHelper":"Щелкните здесь, чтобы добавить изображения к слайд-шоу!","membershipSectionTitle":"Аккаунт","membershipSignedInStatus":"Вы вошли как:","Xing":"Ссылка на Xing","membershipSignedOutStatus":"В настоящее время вход не выполнен","Houzz":"Ссылка на Houzz","morePages":"Больше","membershipBookings":"Заказы","Yelp":"Ссылка на Yelp","Google+":"Ссылка на Google Plus","Instagram":"Ссылка на Instagram","Twitter":"Ссылка на Twitter","translateBarHelper":"Перевести: ","promoBannerLink":"Ссылка баннера акций","membershipAccount":"Мой аккаунт","membershipSignIn":"Войти","cartIcon":"Значок корзины","Pinterest":"Ссылка на Pinterest","membershipCreateAccount":"Создать аккаунт","membershipOrders":"Заказы","membershipSignOut":"Выйти","membershipSignOutCaps":"ВЫХОД","search_placeholder":"Поиск по товарам","LinkedIn":"Ссылка на LinkedIn"},"widgetId":"73cf253b-aa09-43ef-baa5-aed2eb165e32","section":"alt","category":"accent","locale":"ru-RU","renderMode":"PUBLISH"},{"widgetId":"73cf253b-aa09-43ef-baa5-aed2eb165e32","widgetType":"HEADER","widgetPreset":"header9","section":"alt","category":"accent","fontSize":"medium","fontFamily":"alternate","group":"Nav","groupType":"Default"});
